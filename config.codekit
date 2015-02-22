@@ -3037,27 +3037,14 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Narrow Jumbotron Template for Bootstrap_files\/ie-emulation-modes-warning.js": {
-		"fileType": 64,
+	"\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Narrow Jumbotron Template for Bootstrap_files\/ie-emulation-modes-warning.js",
-		"outputAbbreviatedPath": "\/Narrow Jumbotron Template for Bootstrap_files\/min\/ie-emulation-modes-warning-min.js",
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Narrow Jumbotron Template for Bootstrap_files\/ie10-viewport-bug-workaround.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Narrow Jumbotron Template for Bootstrap_files\/ie10-viewport-bug-workaround.js",
-		"outputAbbreviatedPath": "\/Narrow Jumbotron Template for Bootstrap_files\/min\/ie10-viewport-bug-workaround-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 0
 		},
 	"\/open.html": {
 		"fileType": 8192,
@@ -3097,68 +3084,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/Sticky Footer Navbar Template for Bootstrap.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Sticky Footer Navbar Template for Bootstrap_files\/bootstrap.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap_files\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap_files\/min\/bootstrap.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Sticky Footer Navbar Template for Bootstrap_files\/ie-emulation-modes-warning.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap_files\/ie-emulation-modes-warning.js",
-		"outputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap_files\/min\/ie-emulation-modes-warning-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Sticky Footer Navbar Template for Bootstrap_files\/ie10-viewport-bug-workaround.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap_files\/ie10-viewport-bug-workaround.js",
-		"outputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap_files\/min\/ie10-viewport-bug-workaround-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Sticky Footer Navbar Template for Bootstrap_files\/jquery.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap_files\/jquery.min.js",
-		"outputAbbreviatedPath": "\/Sticky Footer Navbar Template for Bootstrap_files\/min\/jquery.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/test.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/test.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
@@ -3168,7 +3093,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "OSOS",
+	"displayValue": "OSOS_git",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "pencil_brown"
 	},
