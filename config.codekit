@@ -2632,12 +2632,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/config.rb": {
-		"fileType": 131072,
+	"\/conduct.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/config.rb",
-		"outputAbbreviatedPath": "\/config.rb",
+		"inputAbbreviatedPath": "\/conduct.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -2740,68 +2740,68 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/Friends\/IDEC.jpg": {
+	"\/img\/Friends\/idec.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 314827,
-		"inputAbbreviatedPath": "\/img\/Friends\/IDEC.jpg",
-		"outputAbbreviatedPath": "\/img\/Friends\/IDEC.jpg",
+		"inputAbbreviatedPath": "\/img\/Friends\/idec.jpg",
+		"outputAbbreviatedPath": "\/img\/Friends\/idec.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/Friends\/MONZ 1200x1200-01.jpg": {
+	"\/img\/Friends\/monz.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 211279,
-		"inputAbbreviatedPath": "\/img\/Friends\/MONZ 1200x1200-01.jpg",
-		"outputAbbreviatedPath": "\/img\/Friends\/MONZ 1200x1200-01.jpg",
+		"inputAbbreviatedPath": "\/img\/Friends\/monz.jpg",
+		"outputAbbreviatedPath": "\/img\/Friends\/monz.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/Friends\/NZ Tech 1200x1200-01.jpg": {
+	"\/img\/Friends\/nztech.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 202524,
-		"inputAbbreviatedPath": "\/img\/Friends\/NZ Tech 1200x1200-01.jpg",
-		"outputAbbreviatedPath": "\/img\/Friends\/NZ Tech 1200x1200-01.jpg",
+		"inputAbbreviatedPath": "\/img\/Friends\/nztech.jpg",
+		"outputAbbreviatedPath": "\/img\/Friends\/nztech.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/Friends\/Oui Share 1200x1200-01.jpg": {
+	"\/img\/Friends\/ouishare.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 227640,
-		"inputAbbreviatedPath": "\/img\/Friends\/Oui Share 1200x1200-01.jpg",
-		"outputAbbreviatedPath": "\/img\/Friends\/Oui Share 1200x1200-01.jpg",
+		"inputAbbreviatedPath": "\/img\/Friends\/ouishare.jpg",
+		"outputAbbreviatedPath": "\/img\/Friends\/ouishare.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/Friends\/Rabid 1200x1200-01.jpg": {
+	"\/img\/Friends\/rabid.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 163870,
-		"inputAbbreviatedPath": "\/img\/Friends\/Rabid 1200x1200-01.jpg",
-		"outputAbbreviatedPath": "\/img\/Friends\/Rabid 1200x1200-01.jpg",
+		"inputAbbreviatedPath": "\/img\/Friends\/rabid.jpg",
+		"outputAbbreviatedPath": "\/img\/Friends\/rabid.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/Friends\/WNZ logo - ShortBlack L 1200x1200.jpg": {
+	"\/img\/Friends\/wnz.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 139619,
-		"inputAbbreviatedPath": "\/img\/Friends\/WNZ logo - ShortBlack L 1200x1200.jpg",
-		"outputAbbreviatedPath": "\/img\/Friends\/WNZ logo - ShortBlack L 1200x1200.jpg",
+		"inputAbbreviatedPath": "\/img\/Friends\/wnz.jpg",
+		"outputAbbreviatedPath": "\/img\/Friends\/wnz.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2868,6 +2868,17 @@
 		"initialSize": 171934,
 		"inputAbbreviatedPath": "\/img\/loomio.jpg",
 		"outputAbbreviatedPath": "\/img\/loomio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ososbg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.0429e+06,
+		"inputAbbreviatedPath": "\/img\/ososbg.jpg",
+		"outputAbbreviatedPath": "\/img\/ososbg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3026,15 +3037,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/Narrow Jumbotron Template for Bootstrap_files\/ie-emulation-modes-warning.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -3072,6 +3074,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/programme.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},

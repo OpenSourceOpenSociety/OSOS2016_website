@@ -1672,9 +1672,11 @@ pre code {
   padding-top: 15px;
   padding-right: 15px;
   display: block;
-  overflow: hidden;
+  overflow: display;
   float: center;
 }
+
+/* basic table css and info relating to this pulled from CSS-tricks.com = thanks! */
 
 table { 
   width: 100%; 
@@ -1685,10 +1687,11 @@ tr:nth-of-type(odd) {
   background: #eee; 
 }
 th { 
-  background: #333; 
+  background: #5cb19f; 
   color: white; 
   font-weight: bold; 
 }
+
 td, th { 
   padding: 6px; 
   border: 1px solid #ccc; 
