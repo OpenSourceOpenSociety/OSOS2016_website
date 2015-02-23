@@ -3363,7 +3363,7 @@ fieldset[disabled] .btn-success.active {
 }
 .btn-info {
   color: #fff;
-  background-color: #5bc0de;
+  background-color: #5cb19f;
   border-color: #46b8da;
 }
 .btn-info:hover,
@@ -3373,7 +3373,7 @@ fieldset[disabled] .btn-success.active {
 .btn-info.active,
 .open > .dropdown-toggle.btn-info {
   color: #fff;
-  background-color: #31b0d5;
+  background-color: #f59162;
   border-color: #269abc;
 }
 .btn-info:active,
