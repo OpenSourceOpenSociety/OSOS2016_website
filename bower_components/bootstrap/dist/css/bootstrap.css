@@ -16,6 +16,7 @@ body {
   background-image: url("/img/ososbg.jpg");
   background-size: contain;
   background-position: center;
+  padding-bottom: 20px;
 }
 
 .brought {
@@ -48,6 +49,9 @@ summary {
   display: block;
 }
 
+footer {
+  padding-bottom: 50px;
+}
 .container-footer {
   width: auto;
   max-width: 680px;
@@ -1156,6 +1160,13 @@ img {
 
 }
 
+.img-nav {
+  display: block;
+  max-width: 90px;
+  height: auto;
+  padding-top: 0px;
+}
+
 .img-responsive {
   display: block;
   max-width: 100px;
@@ -1648,6 +1659,7 @@ pre code {
   background-color: #fff;
   max-width: 90%;
   height: auto;
+  display: block;
 }
 
 .container-inline {
@@ -1669,8 +1681,16 @@ pre code {
 .wrap {
   background: #fff;
   margin: 0 auto;
+  max-width: 100%;
+  height: auto;
   padding-top: 15px;
   padding-right: 15px;
+}
+
+.sponsors {
+  background: #fff;
+  margin: 0 auto;
+  padding-top: 15px;
   display: block;
   overflow: display;
   float: center;
@@ -1753,17 +1773,17 @@ only screen and (max-width: 760px),
 
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 650px;
   }
 }
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 870px;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 1070px;
   }
 }
 .container-fluid {
@@ -3206,6 +3226,7 @@ fieldset[disabled] .btn {
   color: #333;
   background-color: #fff;
   border-color: #ccc;
+  white-space: normal;
 }
 .btn-default:hover,
 .btn-default:focus,
@@ -3296,6 +3317,9 @@ fieldset[disabled] .btn-primary.active {
   color: #fff;
   background-color: #f59162;
   border-color: #f59160;
+  max-width: 100%;
+  height: auto;
+  white-space: normal;
 }
 .btn-success:hover,
 .btn-success:focus,

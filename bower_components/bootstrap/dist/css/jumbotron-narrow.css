@@ -10,6 +10,8 @@ body {
 .footer {
   padding-right: 15px;
   padding-left: 15px;
+  max-width: 100%;
+  height: auto;
 }
 
 /* Custom page header */
@@ -49,6 +51,21 @@ body {
 .jumbotron .btn {
   padding: 14px 24px;
   font-size: 21px;
+}
+
+.jumbotron-m {
+  padding: 15px 24px;
+  font-size: 21px;
+  max-width: 100%;
+  height: auto;
+  background-color: #eee;
+}
+
+@media screen and (min-width: 768) {
+  .jumbotron {
+    max-width: 80%;
+    height: auto;
+  }
 }
 
 /* Supporting marketing content */
