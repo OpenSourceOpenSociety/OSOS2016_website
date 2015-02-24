@@ -2872,6 +2872,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/nav_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12446,
+		"inputAbbreviatedPath": "\/img\/nav_logo.png",
+		"outputAbbreviatedPath": "\/img\/nav_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/ososbg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
