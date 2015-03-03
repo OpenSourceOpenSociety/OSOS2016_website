@@ -13,7 +13,7 @@
 body {
   margin: 0;
   background-color: #fff;
-  background-image: url("/img/ososbg.jpg");
+  background-image: url("/img/osos_bg_web.jpg");
   background-size: contain;
   background-position: center;
   padding-bottom: 20px;
@@ -1213,7 +1213,7 @@ img {
 }
 .img-thumbnail {
   display: inline-block;
-  max-width: 100%;
+  max-width: 100px;
   height: auto;
   padding: 4px;
   line-height: 1.42857143;
@@ -1781,7 +1781,7 @@ only screen and (max-width: 760px),
     width: 870px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .container {
     width: 1070px;
   }
@@ -2274,7 +2274,7 @@ only screen and (max-width: 760px),
     margin-left: 0;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
   }
@@ -3365,6 +3365,7 @@ fieldset[disabled] .btn-success.active {
   color: #fff;
   background-color: #5cb19f;
   border-color: #46b8da;
+  white-space: normal;
 }
 .btn-info:hover,
 .btn-info:focus,
@@ -5051,6 +5052,18 @@ a.badge:focus {
   color: inherit;
   background-color: #fff;
 }
+
+.jumbotron img {
+  max-width: 100%;
+  height: auto;
+}
+
+.jumbotron .img-thumbnail {
+  max-width: 100px;
+  height: auto;
+}
+
+
 .jumbotron h1,
 .jumbotron .h1 {
   color: inherit;
@@ -5065,7 +5078,7 @@ a.badge:focus {
 }
 .container .jumbotron,
 .container-fluid .jumbotron {
-  border-radius: 6px;
+  border-radius: 100px;
 }
 .jumbotron .container {
   max-width: 100%;
@@ -6677,7 +6690,7 @@ button.close {
     display: inline-block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .visible-lg {
     display: block !important;
   }
@@ -6692,17 +6705,17 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .visible-lg-block {
     display: block !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .visible-lg-inline {
     display: inline !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .visible-lg-inline-block {
     display: inline-block !important;
   }
@@ -6722,7 +6735,7 @@ button.close {
     display: none !important;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .hidden-lg {
     display: none !important;
   }
@@ -6774,4 +6787,17 @@ button.close {
     display: none !important;
   }
 }
+
+@media (min-width: 768px) and (max-width: 979px) {
+  .row-fluid > [class*=span]:nth-child(2n+1) {
+    clear: both;
+    margin-left: 0;
+  }
+
+  .row-fluid .span3 {
+    width: 48.61878453038674%;
+  }
+}
+
+
 /*# sourceMappingURL=bootstrap.css.map */
