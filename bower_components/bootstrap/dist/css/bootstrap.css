@@ -1719,57 +1719,6 @@ td, th {
 }
 
 
-@media 
-only screen and (max-width: 760px),
-(min-device-width: 768px) and (max-device-width: 1024px)  {
-
-  /* Force table to not be like tables anymore */
-  table, thead, tbody, th, td, tr { 
-    display: block; 
-  }
-  
-  /* Hide table headers (but not display: none;, for accessibility) */
-  thead tr { 
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-  }
-  
-  tr { border: 1px solid #ccc; }
-  
-  td { 
-    /* Behave  like a "row" */
-    border: none;
-    border-bottom: 1px solid #eee; 
-    position: relative;
-    padding-left: 50%; 
-  }
-  
-  td:before { 
-    /* Now like a table header */
-    position: absolute;
-    /* Top/left values mimic padding */
-    top: 6px;
-    left: 6px;
-    width: 45%; 
-    padding-right: 10px; 
-    white-space: nowrap;
-  }
-  
-  /*
-  Label the data
-  */
-  td:nth-of-type(1):before { content: "Time"; }
-  td:nth-of-type(2):before { content: "Thursday"; }
-  td:nth-of-type(3):before { content: "Friday"; }
-  td:nth-of-type(4):before { content: "Favorite Color"; }
-  td:nth-of-type(5):before { content: "Wars of Trek?"; }
-  td:nth-of-type(6):before { content: "Porn Name"; }
-  td:nth-of-type(7):before { content: "Date of Birth"; }
-  td:nth-of-type(8):before { content: "Dream Vacation City"; }
-  td:nth-of-type(9):before { content: "GPA"; }
-  td:nth-of-type(10):before { content: "Arbitrary Data"; }
-}
 
 @media (min-width: 768px) {
   .container {
@@ -2595,6 +2544,29 @@ table th[class*="col-"] {
 .table > tfoot > tr.warning > th {
   background-color: #fcf8e3;
 }
+
+.keynote {
+  background-color: #F22F52;
+}
+
+.collaboration {
+  background-color: #F26A31;
+}
+
+.lightning {
+  background-color: #F29F07;
+}
+
+.breakout {
+  background-color: #FFD956;
+}
+
+.social {
+  background-color: #95A3BF;
+}
+
+
+
 .table-hover > tbody > tr > td.warning:hover,
 .table-hover > tbody > tr > th.warning:hover,
 .table-hover > tbody > tr.warning:hover > td,
@@ -2626,6 +2598,9 @@ table th[class*="col-"] {
 .table-responsive {
   min-height: .01%;
   overflow-x: auto;
+  color: white;
+  max-width: 60%;
+  margin: auto;
 }
 @media screen and (max-width: 767px) {
   .table-responsive {
@@ -2634,6 +2609,7 @@ table th[class*="col-"] {
     overflow-y: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
     border: 1px solid #ddd;
+    max-width: 90%;
   }
   .table-responsive > .table {
     margin-bottom: 0;
@@ -5294,6 +5270,7 @@ a.thumbnail.active {
 }
 .media {
   margin-top: 15px;
+
 }
 .media:first-child {
   margin-top: 0;
@@ -5302,14 +5279,17 @@ a.thumbnail.active {
 .media-body {
   overflow: hidden;
   zoom: 1;
+  padding: 15px;
 }
+
 .media-body {
   width: 10000px;
 }
 .media-object {
   display: block;
-  max-width: 100px;
+  max-width: 150px;
   height: auto;
+  border-radius: 50%;
 }
 
 .media-right,
@@ -5325,6 +5305,7 @@ a.thumbnail.active {
 .media-body {
   display: table-cell;
   vertical-align: top;
+  border-radius: 0px;
 }
 .media-middle {
   vertical-align: middle;
@@ -6600,6 +6581,25 @@ button.close {
 .visible-lg-inline-block {
   display: none !important;
 }
+
+
+@media (max-width: 500px) {
+  .media-body {
+    display: inline;
+    vertical-align: bottom;
+    background-color: inherit;
+  }
+  .media-left {
+    margin: auto;
+    max-width: 100%;
+    text-align: center;
+    background-color: inherit;
+  }
+  .media.keynote {
+    color: #ffffff;
+  }
+}
+
 @media (max-width: 767px) {
   .visible-xs {
     display: block !important;
