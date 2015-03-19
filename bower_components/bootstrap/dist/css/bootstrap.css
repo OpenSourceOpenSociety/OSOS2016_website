@@ -2546,23 +2546,23 @@ table th[class*="col-"] {
 }
 
 .keynote {
-  background-color: #F22F52;
+  background-color: #ECFFBF;
 }
 
 .collaboration {
-  background-color: #F26A31;
+  background-color: #C2E8AE;
 }
 
 .lightning {
-  background-color: #F29F07;
+  background-color: #CCFFCC;
 }
 
 .breakout {
-  background-color: #FFD956;
+  background-color: #BFFFE3;
 }
 
 .social {
-  background-color: #95A3BF;
+  background-color: #AEE8BE;
 }
 
 
@@ -2598,7 +2598,7 @@ table th[class*="col-"] {
 .table-responsive {
   min-height: .01%;
   overflow-x: auto;
-  color: white;
+  color: black;
   max-width: 60%;
   margin: auto;
 }
@@ -5290,6 +5290,20 @@ a.thumbnail.active {
   max-width: 150px;
   height: auto;
   border-radius: 50%;
+}
+
+.speaker-keynote {
+  border-style: solid;
+  border-color: #F22F52;
+  border-width: 1.5px;
+  -moz-box-shadow: 2px 2px 5px #888;
+  -webkit-box-shadow: 2px 2px 5px #888;
+  box-shadow: 2px 2px 5px #888;
+  transition: color 0.5s ease;
+}
+
+.speaker-keynote:hover {
+  color: #F22F52;
 }
 
 .media-right,

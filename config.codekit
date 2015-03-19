@@ -2679,13 +2679,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/about.jpg": {
-		"fileType": 16384,
+	"\/img\/bronze\/catalyst.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 621657,
-		"inputAbbreviatedPath": "\/img\/about.jpg",
-		"outputAbbreviatedPath": "\/img\/about.jpg",
+		"initialSize": 87306,
+		"inputAbbreviatedPath": "\/img\/bronze\/catalyst.png",
+		"outputAbbreviatedPath": "\/img\/bronze\/catalyst.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3009,6 +3009,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/keynote_hover.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45366,
+		"inputAbbreviatedPath": "\/img\/keynote_hover.png",
+		"outputAbbreviatedPath": "\/img\/keynote_hover.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/loomio.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3141,6 +3152,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/speakers\/alanna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139949,
+		"inputAbbreviatedPath": "\/img\/speakers\/alanna.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/alanna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/speakers\/ben.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3170,6 +3192,28 @@
 		"initialSize": 603259,
 		"inputAbbreviatedPath": "\/img\/speakers\/brandon.jpg",
 		"outputAbbreviatedPath": "\/img\/speakers\/brandon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/cam.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135105,
+		"inputAbbreviatedPath": "\/img\/speakers\/cam.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/cam.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/chelsea_robinson.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107099,
+		"inputAbbreviatedPath": "\/img\/speakers\/chelsea_robinson.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/chelsea_robinson.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3218,6 +3262,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/speakers\/doug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154998,
+		"inputAbbreviatedPath": "\/img\/speakers\/doug.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/doug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/jeremy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67195,
+		"inputAbbreviatedPath": "\/img\/speakers\/jeremy.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/jeremy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/speakers\/jessica.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3225,6 +3291,17 @@
 		"initialSize": 575683,
 		"inputAbbreviatedPath": "\/img\/speakers\/jessica.jpg",
 		"outputAbbreviatedPath": "\/img\/speakers\/jessica.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/josh_barr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 282876,
+		"inputAbbreviatedPath": "\/img\/speakers\/josh_barr.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/josh_barr.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3258,6 +3335,17 @@
 		"initialSize": 387436,
 		"inputAbbreviatedPath": "\/img\/speakers\/lillian.jpg",
 		"outputAbbreviatedPath": "\/img\/speakers\/lillian.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/marianne.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 372052,
+		"inputAbbreviatedPath": "\/img\/speakers\/marianne.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/marianne.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3302,6 +3390,17 @@
 		"initialSize": 1.05732e+06,
 		"inputAbbreviatedPath": "\/img\/speakers\/sascha.jpg",
 		"outputAbbreviatedPath": "\/img\/speakers\/sascha.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/vik.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74351,
+		"inputAbbreviatedPath": "\/img\/speakers\/vik.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/vik.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
