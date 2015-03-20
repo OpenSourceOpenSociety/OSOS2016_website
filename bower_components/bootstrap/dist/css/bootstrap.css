@@ -2549,22 +2549,6 @@ table th[class*="col-"] {
   background-color: #ECFFBF;
 }
 
-/* Add background color to keynote speakers */
-
-.keynote-bg {
-	background-color: #FFEEBC;	
-}
-
-.keynote-tag  {
-	background-color: #E1784A;
-	color: #fff;
-	text-align: center;
-	width: 80%;
-	padding: 2px 2px 5px 2px;
-	margin: 20px auto 0;
-	
-}
-
 .collaboration {
   background-color: #C2E8AE;
 }
@@ -5309,19 +5293,17 @@ a.thumbnail.active {
 }
 
 .speaker-keynote {
-  
   border-style: solid;
-  border-color: #E1784A;
-  border-width: 4px;
-  /*
+  border-color: #F22F52;
+  border-width: 1.5px;
   -moz-box-shadow: 2px 2px 5px #888;
   -webkit-box-shadow: 2px 2px 5px #888;
-  box-shadow: 2px 2px 5px #888;*/
-  /*transition: color 0.5s ease; */
+  box-shadow: 2px 2px 5px #888;
+  transition: color 0.5s ease;
 }
 
 .speaker-keynote:hover {
-  /*color: #F22F52; */
+  color: #F22F52;
 }
 
 .media-right,
