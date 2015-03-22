@@ -1187,13 +1187,13 @@ img {
 
 .img-responsive-bronze {
   display: block;
-  max-width: 150px;
+  max-width: 170px;
   height: auto;
 }
 
 .img-responsive-friends {
   display: block;
-  max-width: 120px;
+  max-width: 140px;
   height: auto;
 
 }
@@ -1371,7 +1371,7 @@ p {
   margin: 0 0 10px;
 }
 .lead {
-  margin-bottom: 20px;
+  margin-bottom: 20px !important;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
@@ -1750,6 +1750,7 @@ td, th {
   padding-right: 15px;
   padding-left: 15px;
   overflow: visible;
+
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
@@ -5040,7 +5041,7 @@ a.badge:focus {
 }
 .jumbotron {
   padding: 30px 15px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   color: inherit;
   background-color: #fff;
 }
@@ -5077,7 +5078,7 @@ a.badge:focus {
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding: 48px 0;
+    padding: 20px 0;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
@@ -6830,6 +6831,65 @@ button.close {
     width: 48.61878453038674%;
   }
 }
+
+/* Phill's random meddling */
+
+.sponsor-gold {
+	border: 12px solid gold;
+}
+.sponsor-silver {
+	border: 12px solid silver;
+}
+.sponsor-bronze {
+	border: 12px solid #CD7F32;
+}
+.sponsor-friends {
+		border: 12px solid #5CB893;
+}
+
+
+
+.sponsor-col-left {
+	width: 50%;
+}
+
+.sponsor-col-right {
+	float: right !important;
+	width: 50%;
+}
+
+
+
+
+@media (max-width: 991px) {
+
+.sponsor-col-left {
+	width: 100%;
+}
+
+.sponsor-col-right {
+	float: right !important;
+	width: 100%;
+}
+
+.img-responsive-gold {
+  max-width: 100%;
+}
+
+.img-responsive-silver {
+  max-width: 85%;
+}
+
+.img-responsive-bronze {
+  max-width: 70%;
+}
+
+.img-responsive-friends {
+  max-width: 50%;
+
+}
+
+
 
 
 /*# sourceMappingURL=bootstrap.css.map */
