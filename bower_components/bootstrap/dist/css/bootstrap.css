@@ -1198,6 +1198,12 @@ img {
 
 }
 
+.img-responsive-black {
+  display: block;
+  max-width: 250px;
+  height: auto;
+}
+
 
 .img-responsive,
 .thumbnail > img,
@@ -6846,6 +6852,9 @@ button.close {
 .sponsor-friends {
 		border: 12px solid #5CB893;
 }
+.sponsor-hosts {
+		border: 12px solid #000000;
+}
 
 
 
@@ -6857,7 +6866,6 @@ button.close {
 	float: right !important;
 	width: 50%;
 }
-
 
 
 
@@ -6885,7 +6893,25 @@ button.close {
 }
 
 .img-responsive-friends {
-  max-width: 50%;
+  max-width: 60%;
+
+}
+
+.img-responsive-black {
+  max-width: 80%;
+}
+
+
+
+@media (max-width: 600px) {
+
+
+.img-responsive-bronze {
+  max-width: 80%;
+}
+
+.img-responsive-friends {
+  max-width: 80%;
 
 }
 
