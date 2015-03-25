@@ -6838,7 +6838,53 @@ button.close {
   }
 }
 
+/* location images */
+
+
+.location-images, .mfc-images {
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 15px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.location-images img {
+  padding: 0px;
+  border: 0px;
+  margin: 2px auto;
+  width: 24%;
+}
+
+.mfc-images img {
+  padding: 0px;
+  border: 1px solid #dedede;
+  margin: 2px auto;
+  width: 49%;
+ 
+}
+
+/* Google Map */
+
+.mfc-map {
+	margin: 0px;
+	padding: 0px;
+	max-width: 100%;
+	overflow: hidden;
+	margin: 15px auto;
+}
+
+
+
+
 /* Phill's random meddling */
+
+.wellingtonnz-credit {
+	text-align: center;
+	color: #333;
+	margin-top: 35px;
+
+}
 
 .sponsor-gold {
 	border: 12px solid gold;
@@ -6871,47 +6917,84 @@ button.close {
 
 @media (max-width: 991px) {
 
-.sponsor-col-left {
-	width: 100%;
+	.sponsor-col-left {
+		width: 100%;
+	}
+	
+	.sponsor-col-right {
+		float: right !important;
+		width: 100%;
+	}
+	
+	.img-responsive-gold {
+	  max-width: 100%;
+	}
+	
+	.img-responsive-silver {
+	  max-width: 85%;
+	}
+	
+	.img-responsive-bronze {
+	  max-width: 70%;
+	}
+	
+	.img-responsive-friends {
+	  max-width: 60%;
+	
+	}
+	
+	.img-responsive-black {
+	  max-width: 80%;
+	}
+	
+	/* location page images */
+	
+	.location-images img {
+		width: 49%;
+	}
+	.mfc-images img {
+		width: 49%;
+	}
+
+	
+	
 }
-
-.sponsor-col-right {
-	float: right !important;
-	width: 100%;
-}
-
-.img-responsive-gold {
-  max-width: 100%;
-}
-
-.img-responsive-silver {
-  max-width: 85%;
-}
-
-.img-responsive-bronze {
-  max-width: 70%;
-}
-
-.img-responsive-friends {
-  max-width: 60%;
-
-}
-
-.img-responsive-black {
-  max-width: 80%;
-}
-
 
 
 @media (max-width: 600px) {
 
+	.img-responsive-bronze {
+	  max-width: 80%;
+	}
+	
+	.img-responsive-friends {
+	  max-width: 80%;
+	
+	}
+	
+	/* reduce padding on smaller devices */
+	
+	.container {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	
+	
 
-.img-responsive-bronze {
-  max-width: 80%;
-}
-
-.img-responsive-friends {
-  max-width: 80%;
+	/* location page images */
+	
+	.location-images img {
+		width: 100%;
+	}
+	.location-images img.limit-mobile {
+		display: none;
+	}
+	
+	.mfc-images img {
+		width: 100%;
+	}
+	
+	
 
 }
 
