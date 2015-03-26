@@ -6879,6 +6879,11 @@ button.close {
 
 /* Phill's random meddling */
 
+/* greyscale for images as needed */
+
+.desaturate { -webkit-filter: grayscale(100%); filter: grayscale(100%); }
+
+
 .wellingtonnz-credit {
 	text-align: center;
 	color: #333;
