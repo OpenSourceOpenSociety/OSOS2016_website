@@ -2987,50 +2987,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/front\/be.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 145949,
-		"inputAbbreviatedPath": "\/img\/front\/be.png",
-		"outputAbbreviatedPath": "\/img\/front\/be.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/front\/connect.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 148890,
-		"inputAbbreviatedPath": "\/img\/front\/connect.png",
-		"outputAbbreviatedPath": "\/img\/front\/connect.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/front\/get.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 131372,
-		"inputAbbreviatedPath": "\/img\/front\/get.png",
-		"outputAbbreviatedPath": "\/img\/front\/get.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/front\/think.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 136333,
-		"inputAbbreviatedPath": "\/img\/front\/think.png",
-		"outputAbbreviatedPath": "\/img\/front\/think.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/github.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3181,94 +3137,6 @@
 		"initialSize": 5.0429e+06,
 		"inputAbbreviatedPath": "\/img\/ososbg.jpg",
 		"outputAbbreviatedPath": "\/img\/ososbg.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/people\/about.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 162422,
-		"inputAbbreviatedPath": "\/img\/people\/about.jpg",
-		"outputAbbreviatedPath": "\/img\/people\/about.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/people\/alanna.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15736,
-		"inputAbbreviatedPath": "\/img\/people\/alanna.jpg",
-		"outputAbbreviatedPath": "\/img\/people\/alanna.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/people\/ants.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16191,
-		"inputAbbreviatedPath": "\/img\/people\/ants.jpg",
-		"outputAbbreviatedPath": "\/img\/people\/ants.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/people\/ben-knight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26828,
-		"inputAbbreviatedPath": "\/img\/people\/ben-knight.png",
-		"outputAbbreviatedPath": "\/img\/people\/ben-knight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/people\/helen.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5504,
-		"inputAbbreviatedPath": "\/img\/people\/helen.jpeg",
-		"outputAbbreviatedPath": "\/img\/people\/helen.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/people\/megan.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9963,
-		"inputAbbreviatedPath": "\/img\/people\/megan.jpg",
-		"outputAbbreviatedPath": "\/img\/people\/megan.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/people\/silvia.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15643,
-		"inputAbbreviatedPath": "\/img\/people\/silvia.jpg",
-		"outputAbbreviatedPath": "\/img\/people\/silvia.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/people\/simon-jarvis.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15519,
-		"inputAbbreviatedPath": "\/img\/people\/simon-jarvis.jpg",
-		"outputAbbreviatedPath": "\/img\/people\/simon-jarvis.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3812,119 +3680,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/venue\/wellington-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 56522,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-1.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/venue\/wellington-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 70910,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-2.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/venue\/wellington-3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 51054,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-3.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/venue\/wellington-4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 53653,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-4.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/venue\/wellington-5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 43276,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-5.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/venue\/wellington-6.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 57539,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-6.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-6.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/venue\/wellington-7.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 48440,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-7.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-7.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/venue\/wellington-mf-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 93476,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-mf-1.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-mf-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/venue\/wellington-mf-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 62966,
-		"inputAbbreviatedPath": "\/img\/venue\/wellington-mf-2.jpg",
-		"outputAbbreviatedPath": "\/img\/venue\/wellington-mf-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/location.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/location.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3964,6 +3724,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/society.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/source.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
