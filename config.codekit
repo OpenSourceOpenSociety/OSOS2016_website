@@ -2976,13 +2976,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/friends\/Space Logo.jpg": {
+	"\/img\/friends\/space.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 21240,
-		"inputAbbreviatedPath": "\/img\/friends\/Space Logo.jpg",
-		"outputAbbreviatedPath": "\/img\/friends\/Space Logo.jpg",
+		"initialSize": 135720,
+		"inputAbbreviatedPath": "\/img\/friends\/space.jpg",
+		"outputAbbreviatedPath": "\/img\/friends\/space.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3537,6 +3537,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/speakers\/karaitiana.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13087,
+		"inputAbbreviatedPath": "\/img\/speakers\/karaitiana.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/karaitiana.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/speakers\/keitha.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3654,6 +3665,17 @@
 		"initialSize": 74351,
 		"inputAbbreviatedPath": "\/img\/speakers\/vik.jpg",
 		"outputAbbreviatedPath": "\/img\/speakers\/vik.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/wendy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.47229e+06,
+		"inputAbbreviatedPath": "\/img\/speakers\/wendy.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/wendy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
