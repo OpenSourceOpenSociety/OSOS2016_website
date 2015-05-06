@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KingSumo Giveaways\n"
+"POT-Creation-Date: 2014-10-27 13:03+0930\n"
+"PO-Revision-Date: 2014-10-27 13:03+0930\n"
+"Last-Translator: \n"
+"Language-Team: KingSumo <support@kingsumo.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ks-giveaways-admin.php:686
+#, php-format
+msgid "%s giveaway updated."
+msgid_plural "%s giveaways updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-ks-giveaways-admin.php:687
+#, php-format
+msgid "%s giveaway not updated, somebody is editing it."
+msgid_plural "%s giveaways not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-ks-giveaways-admin.php:688
+#, php-format
+msgid "%s giveaway permanently deleted."
+msgid_plural "%s giveaways permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-ks-giveaways-admin.php:689
+#, php-format
+msgid "%s giveaway moved to the Trash."
+msgid_plural "%s giveaways moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-ks-giveaways-admin.php:690
+#, php-format
+msgid "%s giveaway restored from the Trash."
+msgid_plural "%s giveaways restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-ks-giveaways-admin.php:702
+#: admin/class-ks-giveaways-admin.php:705
+msgid "Giveaway updated."
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:702
+#: admin/class-ks-giveaways-admin.php:708
+msgid "View giveaway"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:703
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:704
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: admin/class-ks-giveaways-admin.php:707
+#, php-format
+msgid "Giveaway restored to revision from %s"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:709
+msgid "Giveaway saved."
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:710
+#, php-format
+msgid ""
+"Giveaway submitted. <a target=\"_blank\" href=\"%s\">Preview giveaway</a>"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:711
+#, php-format
+msgid ""
+"Giveaway scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview giveaway</a>"
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: admin/class-ks-giveaways-admin.php:713
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:714
+msgid "Giveaway draft updated."
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:714
+msgid "Preview giveaway"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:753
+msgid "Cannot publish giveaway until all fields are completed."
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:879
+msgid "Step 1"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:879
+msgid "Giveaway Information"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:880
+msgid "Step 2"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:880
+msgid "Prize Information"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:881
+msgid "Step 3"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:881
+msgid "Question"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:882
+msgid "Step 4"
+msgstr ""
+
+#: admin/class-ks-giveaways-admin.php:882
+msgid "Design"
+msgstr ""
+
+#: admin/includes/class-ks-contestants-list-table.php:98
+msgid "No contestants found."
+msgstr ""
+
+#: admin/includes/class-ks-winners-list-table.php:178
+msgid "No winners found."
+msgstr ""
+
+#: admin/views/settings.php:2
+msgid "KingSumo Giveaways"
+msgstr ""
+
+#: templates/responsive3/ended.php:4 templates/responsive3/rules.php:9
+msgid "Giveaway Ended"
+msgstr ""
+
+#: templates/responsive3/ended.php:20
+msgid "Anonymous"
+msgstr ""
+
+#: templates/responsive3/ended.php:22
+msgid "Verifying Winner"
+msgstr ""
+
+#: templates/responsive3/ended.php:24
+msgid "Pending"
+msgstr ""
+
+#: templates/responsive3/index.php:53
+msgid "Value"
+msgstr ""
+
+#: templates/responsive3/not-started.php:10
+msgid "Slow down! Giveaway hasn't started yet. Come back later."
+msgstr ""
+
+#: templates/responsive3/rules.php:5
+msgid "Giveaway Starts"
+msgstr ""
+
+#: templates/responsive3/rules.php:11
+msgid "Giveaway Ends"
+msgstr ""
+
+#: templates/responsive3/rules.php:19
+msgid "Prizes Awarded"
+msgstr ""
+
+#: templates/responsive3/rules.php:25
+#, php-format
+msgid "Enter sweepstakes and receive exclusive offers from %s."
+msgstr ""
+
+#: templates/responsive3/rules.php:25
+msgid "Unsubscribe anytime."
+msgstr ""
+
+#: templates/responsive3/rules.php:27
+#, php-format
+msgid "%s is not affiliated with the giveaway."
+msgstr ""
+
+#: templates/responsive3/rules.php:29
+msgid "Read official rules."
+msgstr ""
+
+#: templates/responsive3/rules.php:36
+msgid "Powered by KingSumo Giveaways"
+msgstr ""
+
+#: templates/responsive3/running.php:40
+msgid "Share Lucky URL"
+msgstr ""
+
+#: templates/responsive3/running.php:71
+msgid "Answer correctly to qualify"
+msgstr ""
+
+#: templates/responsive3/running.php:76
+msgid "Incorrect answer, try again!"
+msgstr ""
+
+#: templates/responsive3/running.php:85
+msgid "Enter your email address"
+msgstr ""
+
+#: templates/responsive3/running.php:100
+msgid "An email address is required."
+msgstr ""
+
+#: templates/responsive3/running.php:106
+msgid "Did you mean"
+msgstr ""
+
+#: templates/responsive3/running.php:111
+msgid "Enter"
+msgstr ""

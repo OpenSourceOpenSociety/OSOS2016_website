@@ -1,0 +1,106 @@
+/* line 2, ../scss/admin.scss */
+#ks_contest_images img, #ks_contest_prize img {
+  max-width: 100%;
+  max-height: 60px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* line 10, ../scss/admin.scss */
+.preview-giveaway {
+  background: url(../images/preview.png) no-repeat;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+/* line 20, ../scss/admin.scss */
+.wp-list-table.winners .column-position {
+  width: 20px;
+}
+/* line 24, ../scss/admin.scss */
+.wp-list-table.winners .column-avatar {
+  width: 60px;
+}
+/* line 29, ../scss/admin.scss */
+.wp-list-table.winners td.column-avatar img {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+}
+/* line 38, ../scss/admin.scss */
+.wp-list-table.winners td.column-position {
+  font-size: 75%;
+}
+/* line 43, ../scss/admin.scss */
+.wp-list-table.winners td.column-name a {
+  outline: none;
+}
+/* line 47, ../scss/admin.scss */
+.wp-list-table.winners td.column-name form {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box !important;
+}
+/* line 52, ../scss/admin.scss */
+.wp-list-table.winners td.column-name form input {
+  box-sizing: border-box !important;
+  margin: 0;
+  padding: 3px 0px;
+  height: auto !important;
+  width: auto !important;
+}
+/* line 62, ../scss/admin.scss */
+.wp-list-table.winners .column-actions {
+  text-align: right;
+  width: 200px;
+}
+/* line 67, ../scss/admin.scss */
+.wp-list-table.winners .column-status {
+  width: 100px;
+}
+
+/* line 73, ../scss/admin.scss */
+.wp-list-table.contestants .column-num_entries {
+  width: 100px;
+  text-align: center;
+}
+/* line 78, ../scss/admin.scss */
+.wp-list-table.contestants .column-actions {
+  text-align: right;
+  width: 150px;
+}
+
+/* line 86, ../scss/admin.scss */
+.post-type-ks_giveaway .wp-list-table.posts .column-time_remaining {
+  text-align: right;
+  width: 120px;
+}
+/* line 91, ../scss/admin.scss */
+.post-type-ks_giveaway .wp-list-table.posts .column-num_contestants {
+  width: 80px;
+  text-align: center;
+}
+/* line 96, ../scss/admin.scss */
+.post-type-ks_giveaway .wp-list-table.posts .column-num_entries {
+  width: 80px;
+  text-align: center;
+}
+/* line 101, ../scss/admin.scss */
+.post-type-ks_giveaway .wp-list-table.posts .column-status {
+  width: 80px;
+}
+
+/* line 107, ../scss/admin.scss */
+.time-text {
+  width: 80px;
+}
+
+/* line 111, ../scss/admin.scss */
+.date-text {
+  width: 150px;
+}
