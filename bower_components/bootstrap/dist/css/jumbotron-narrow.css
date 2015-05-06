@@ -91,6 +91,39 @@ body {
   background-color: #eee;
 }
 
+.jumbotron-b {
+  padding: 15px 24px;
+  font-size: 21px;
+  max-width: 100%;
+  height: auto;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #5cb19f;
+}
+
+.jumbotron-y {
+  padding: 15px 24px;
+  font-size: 21px;
+  max-width: 100%;
+  height: auto;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 3px;
+  border-color: yellow;
+}
+
+.jumbotron-g {
+  padding: 15px 24px;
+  font-size: 21px;
+  max-width: 100%;
+  height: auto;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #f59162;
+}
+
 @media screen and (min-width: 768) {
   .jumbotron {
     max-width: 80%;

@@ -98,6 +98,20 @@ h1 {
   margin: .67em 0;
   font-size: 2em;
 }
+
+.jumbotron .h1green {
+  color: #5cb19f;
+}
+
+.jumbotron .h1grey {
+  color: grey;
+}
+
+.jumbotron .h1orange {
+  color: #f59162;
+}
+
+
 mark {
   color: #000;
   background: #ff0;
@@ -1224,8 +1238,6 @@ img {
   padding: 4px;
   line-height: 1.42857143;
   background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 4px;
   -webkit-transition: all .2s ease-in-out;
   -o-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
@@ -1738,7 +1750,7 @@ td, th {
 }
 @media (min-width: 1000px) {
   .container {
-    width: 1070px;
+    width: 1300px;
   }
 }
 .container-fluid {
@@ -3529,6 +3541,12 @@ fieldset[disabled] .btn-link:focus {
   color: #777;
   text-decoration: none;
 }
+
+.btn-mx{
+  padding: 10px 16px;
+  max-width: 100%;
+  height: auto;
+}
 .btn-lg,
 .btn-group-lg > .btn {
   padding: 10px 16px;
@@ -5102,7 +5120,7 @@ a.badge:focus {
   margin-bottom: 20px;
   line-height: 1.42857143;
   background-color: #fff;
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
   border-radius: 4px;
   -webkit-transition: border .2s ease-in-out;
   -o-transition: border .2s ease-in-out;
