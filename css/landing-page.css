@@ -1,0 +1,278 @@
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+ body,
+ html {
+    width: 100%;
+    height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "open sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.topnav {
+    font-size: 14px; 
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.proclaim {
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.padding-x {
+    padding: 100px 0 !important;
+}
+
+
+.conduct-bg {
+    background: url(../img/backgrounds/conduct.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.events-bg {
+    background: url(../img/backgrounds/events.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.open-bg {
+    background: url(../img/backgrounds/conduct.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.partners-bg {
+    background: url(../img/backgrounds/partners.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.speakers-bg {
+    background: url(../img/backgrounds/speakers.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.about-bg {
+    background: url(../img/backgrounds/about_us.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.location-bg {
+    background: url(../img/backgrounds/location.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background-size: cover;
+}
+
+.team {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);
+}
+
+.profile {
+    max-width: 400px;
+    height: auto;
+    border-radius: 50%;
+    position: relative;
+    top: 50%;
+    transform: translateY(+20%);
+}
+
+.profile-b {
+    max-width: 400px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.location {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(+20%);
+    border-radius: 4px;
+}
+
+.member {
+    max-width: 300px;
+    height: auto;
+}
+
+.contributor {
+    max-width: 200px;
+    max-height: auto;
+}
+
+.friend {
+    max-width: 150px;
+    max-height: auto;
+}
+
+.co-host {
+    max-width: 200px;
+    height: auto;
+    padding: 20px;
+}
+
+.icon-larger:before{
+    font-size: 1000%;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 6em !important;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.spacer-center {
+    float: center;
+    width: 300px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/osos_2016_bg.png) no-repeat center center;
+    background-size: cover;
+}
+
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+.banner-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+footer {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}

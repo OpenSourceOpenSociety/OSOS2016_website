@@ -1,176 +1,355 @@
 <!DOCTYPE html>
-<!-- saved from url=(0050)http://getbootstrap.com/examples/jumbotron-narrow/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="author" content="">
-<link rel="icon" href="/img/fav.ico">
+<html lang="en">
 
-<title>Open Source Open Society 2015</title>
+<head>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-<!-- Import that jquery yo! -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <!-- meta data for facebook and twitter -->
 
-<script type="text/javascript" src="../bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <meta name="twitter:description" content="OS//OS is a two-day gathering of bright minds and communities from open technology, open government, open business and open education."></meta>
 
-<!-- Import drpdown for that killer nav! -->
-<script type="text/javascript" src="http://twitter.github.com/bootstrap/assets/js/bootstrap-dropdown.js"></script>
+    <meta property="og:title" content="OS//OS: Open Source // Open Society"></meta>
 
-<!-- Bootstrap core CSS -->
-<link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-<link href="../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <meta property="og:description" content="OS//OS is a two-day gathering of bright minds and communities from open technology, open government, open business and open education."></meta>
 
+    <meta property="og:type" content="website"></meta>
 
+    <meta property="og:site_name" content="OS//OS"></meta>
 
-<!-- Custom styles for this template -->
-<link href="../bower_components/bootstrap/dist/css/jumbotron-narrow.css" rel="stylesheet">
+    <meta property="og:image" content="http://opensourceopensociety.com/img/nav_logo.png"></meta>
 
-<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-<script src="./Narrow Jumbotron Template for Bootstrap_files/ie-emulation-modes-warning.js"></script><style type="text/css"></style>
+    <meta property="og:image:type" content="image/png"></meta>
 
+    <meta property="og:image:width" content="1200"></meta>
 
+    <meta property="og:image:height" content="1200"></meta>
 
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <meta property="og:url" content="http://www.opensourceopensociety.com/"></meta>
+
+    <link rel="icon" href="/img/fav.ico">
+
+    <title>OPEN</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/landing-page.css" rel="stylesheet">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <!-- <link rel="stylesheet" href="css/creative.css" type="text/css"> -->
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-      <![endif]-->
-      <style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
-        .en-markup-crop-options {
-          top: 18px !important;
-          left: 50% !important;
-          margin-left: -100px !important;
-          width: 200px !important;
-          border: 2px rgba(255,255,255,.38) solid !important;
-          border-radius: 4px !important;
-        }
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
 
-        .en-markup-crop-options div div:first-of-type {
-          margin-left: 0px !important;
-        }
-      </style></head>
+    </head>
 
-      <body>
+    <body>
 
-        <div class="container">
-          <div class="header">
-            <nav>
-              <ul class="nav nav-pills pull-right">
-                <li><a href="index.html">Home</a></li>
-                
-                <li role="presentation" class="dropdown">
-                  <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">The Conference<b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a target="_blank" href="http://osos.sched.org">Programme</a></li>
-                    <li><a href="location.html">Location & Info</a></li>
-                    <!-- <li><a href="updates.html">News & Updates</a></li> -->
-                    <li><a href="speakers.html">Speakers</a></li>
-                    <li><a href="community.html">Community & Sponsors</a></li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Find out more</li>
-                    <li><a href="about.html">About us</a></li>
-                    <li class="active"><a href="open.html">What is Open?</a></li>
-                    <li><a href="conduct.html">Code of Conduct</a></li>
-                  </ul>
-                </li>
-              </li>
-              <li role="presentation"><a href="mailto:contact@opensourceopensociety.com" target="_blank">Contact</a></li>
-              <li role="presentation"><a href="map.html" target="_blank">Map</a></li>
-              <li><a href="http://blog.opensourceopensociety.com" target="_blank">Blog</a>
-                <li role="presentation"><a href="http://chalkle.com/osos/open-source-open-society-conference/4605" target="_blank">Buy Tickets</a></li>
-              </ul>
-            </nav>
-            <img class="img-nav pull-left" src="/img/nav_logo.png"><h3 class="text-muted">//open.</h3>
-          </div>
-
-          <div class="jumbotron">
-            <h1>What is open?</h1>
-            <p class="lead">What happens when we open source everything?</p>
-            <p><a class="btn btn-lg btn-success" href="http://chalkle.com/osos/open-source-open-society-conference/4605" role="button" target="_blank">Buy tickets to find out.</a></p>
-          </div>
-        </br>
-      </hr>
-
-      <div class="container-fluid">
-        <h2>How are we going to define open?</h2>
-        <p>
-
-          In recent times, the word open has been used and abused. For us open means aiding and encouraging the human urge to share, explore and improve. Anything that thwarts peoples’ desire to share, explore, and improve is closed, not open.
-        </p>
-        <p>
-          The recent move towards openness in the digital world was enabled by the Internet, as the most powerful communications infrastructure that has ever existed, which was built on free and open source software. This digital movement taps into the underlying human urge for openness that has always existed.
-        </p>
-        <p>
-          OS/OS is a celebration of efforts to consciously reverse practises that deny people the right to share, to participate, to collaborate. We celebrate “the commons”, both physical and virtual, and work to improve commonly-held resources that benefit all, rather than exploit them for our own limited gain.
-        </p>
-
-        <p>
-          <h3>Open principles</h3>
-          <ul>
-            <li>Collaboration</li>
-            <li>Participation</li>
-            <li>Transparency</li>
-            <li>Freedom to innovate</li>
-          </ul>
-        </p>
-      </div>
-
-      <!-- /footer includes mailchimp form-->
-
-      <footer class="footer">
-        <div class="container-footer">
-          <!-- Begin MailChimp Signup Form -->
-          <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-          <style type="text/css">
-            #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup" align="center">
-  <form action="//opensourceopensociety.us10.list-manage.com/subscribe/post?u=a5ad60e8bafd8fe92e46b900c&amp;id=fc5fed8b72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-      <h2>Subscribe to our mailing list</h2>
-      <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-      <div class="mc-field-group">
-        <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-        </label>
-        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-      </div>
-      <div class="mc-field-group">
-        <label for="mce-FNAME">First Name </label>
-        <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-      </div>
-      <div class="mc-field-group">
-        <label for="mce-LNAME">Last Name </label>
-        <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-      </div>
-      <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-      </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;"><input type="text" name="b_a5ad60e8bafd8fe92e46b900c_fc5fed8b72" tabindex="-1" value=""></div>
-      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-  </form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
-</div>
-</footer>
-</div>
-</div> <!-- /container -->
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+            <div class="container topnav">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand topnav" href="index.html"><img src="img/nav_logo.png" style="max-height: 25px; max-width: auto"></a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="partners.html">PARTNERS</a>
+                        </li>
+                        <li>
+                            <a href="events.html">EVENTS</a>
+                        </li>
+                        <li>
+                            <a href="speakers.html">SPEAKERS</a>
+                        </li>
+                        <li>
+                            <a href="open.html">OPEN?</a>
+                        </li>
+                        <li>
+                            <a href="http://blog.opensourceopensociety.com/">BLOG</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
 
 
-<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<script src="./Narrow Jumbotron Template for Bootstrap_files/ie10-viewport-bug-workaround.js"></script>
+        <!-- Header -->
+        <a name="about"></a>
+        <div class="intro-header open-bg">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="intro-message">
+                            <h1>WHAT IS OPEN?</h1>
+                            <hr class="intro-divider">
+                            <ul class="list-inline intro-social-buttons">
+                                <li>
+                                    <a href="https://twitter.com/OSOSNZ" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/OpenSourceOpenSociety" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.facebook.com/opensourceopensociety" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- /.container -->
+
+        </div>
+        <!-- /.intro-header -->
+
+        <!-- Page Content -->
+
+        <a  name="services"></a>
+        <div class="content-section-a">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 col-sm-6">
+                        <hr class="section-heading-spacer">
+                        <div class="clearfix"></div>
+                        <p class="lead">The internet has fundamentally rewritten the rules for human culture. We can <b>transparently exchange information</b> on a scale we have never been able to imagine before.</p>
+                    </div>
+ <!--                        <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                            <img class="img-responsive" src="img/dog.png" alt="">
+                        </div> -->
+                    </div>
+
+                </div>
+                <!-- /.container -->
+
+            </div>
+            <!-- /.content-section-a -->
+
+            <div class="content-section-b">
+
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                            <hr class="section-heading-spacer">
+                            <div class="clearfix"></div>
+                            <p class="lead">We can <b>work together and collaborate</b> at a species level. 
+                                <br>
+                                Our individual <b>freedom to innovate</b> has never, ever been greater.</p>
+                            </div>
+<!--                         <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                            <img class="img-responsive" src="img/dog.png" alt="">
+                        </div> -->
+                    </div>
+
+                </div>
+                <!-- /.container -->
+
+            </div>
+            <!-- /.content-section-b -->
+
+            <div class="content-section-a">
+
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-lg-5 col-sm-6">
+                            <hr class="section-heading-spacer">
+                            <div class="clearfix"></div>
+                            <!-- <h2 class="section-heading">Google Web Fonts and<br>Font Awesome Icons</h2> -->
+                            <p class="lead">We have the collective potential to <b>radically improve the world</b> so it works better for everyone. Right now.</p>
+                        </div>
+<!--                         <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                            <img class="img-responsive" src="img/phones.png" alt="">
+                        </div> -->
+                    </div>
+
+                </div>
+                <!-- /.container -->
+
+            </div>
+            <!-- /.content-section-a -->
+
+            <div class="content-section-b padding-x">
+                <hr class="spacer-center">
+                <div class="container">
+
+                    <div class="row proclaim">
+                        <div class="clearfix"></div>
+                        <!-- <h2 class="section-heading">Google Web Fonts and<br>Font Awesome Icons</h2> -->
+                        <p>Welcome to the age of <b>active participation</b>.</p> 
+
+                        <p>Welcome to the world where being <b>open is better for business, technology and democracy.</b></p>
+<!--                         <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                            <img class="img-responsive" src="img/phones.png" alt="">
+                        </div> -->
+                    </div>
+
+                </div>
+
+                <!-- /.container -->
+
+            </div>
+            <!-- /.content-section-a -->
+
+            <div class="content-section-a padding-x">
+                <div class="container">
+                    <div class="row proclaim">
+                        <img src="../img/nav_logo.png" alt="OS//OS logo" width="auto" height="200px" align="center">
+                        <div class="clearfix"></div>
+                        <div>
+                            <div class="proclaim">
+                                <hr class="spacer-center">
+                                <h3>Welcome to #OSOS 2016</h3>
+                                <h2><a href="http://goo.gl/forms/LcySQqxPrA" target="_blank">Join a community of active global citizens building a more open world.</a></h2>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="container lead" align="center">
+                        <table class="table table-hover table-striped">
+                            <thead>
+                                <tr class="lead">We are an open community, this conference provides an opportunity for us to work together to answer/ get clearer on the following questions...</tr>
+                            </thead>
+                            <tbody align="center" class="table-striped table-hover">
+                                <tr>
+                                    <td>How can we employ open principles to drive innovation and growth in our workplace culture?</td>
+                                </tr>
+                                <tr>
+                                    <td>Who is leading the world in open, innovative business culture?</td>
+                                </tr>
+                                <tr>
+                                    <td>What are the big opportunities for new business in the open source world?</td>
+                                </tr>
+                                <tr>
+                                    <td>How open is New Zealand really?</td>
+                                </tr>
+                                <tr>
+                                    <td>What emerging open source technology is on the horizon?</td>
+                                </tr>
+                                <tr>
+                                    <td>What barriers can we remove to enable more open source technology in New Zealand?</td>
+                                </tr>
+                                <tr>
+                                    <td>How can open data help our decision makers?</td>
+                                </tr>
+                                <tr>
+                                    <td>Can open data and journalism change how democracy works?</td>
+                                </tr>
+                                <tr>
+                                    <td>How can we use the internet to enable more people to engage with decisions that affect all of us?</td>
+                                </tr>
+                                <tr>
+                                    <td>How far away is an internet enabled democratic system?</td>
+                                </tr>
+                                <tr>
+                                    <td>How could an internet based democracy work in New Zealand?</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- /.container -->
+
+            </div>
+            <!-- /.content-section-a -->
 
 
-<span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span></body></html>
+
+            <a  name="contact"></a>
+            <div class="banner">
+
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <h2>Connect with OS//OS</h2>
+                        </div>
+                        <div class="col-lg-6">
+                            <ul class="list-inline intro-social-buttons">
+                                <li>
+                                    <a href="https://twitter.com/OSOSNZ" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/OpenSourceOpenSociety" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.facebook.com/opensourceopensociety" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /.container -->
+
+            </div>
+            <!-- /.banner -->
+
+            <!-- Footer -->
+
+            <footer>
+                <p class="text-muted" align="center">To see last year's site, click <a href="2015.html" title="OS//OS 2015">here</a></p>
+                <p class="text-muted" align="center">Want to read the report from last year? <a href="OSOS Report 2015 Final.pdf" title="OS//OS 2015 report" target="_blank">Click here to download</a></p>
+            </footer>
+
+            <!-- jQuery -->
+            <script src="js/jquery.js"></script>
+
+            <!-- Bootstrap Core JavaScript -->
+            <script src="js/bootstrap.min.js"></script>
+
+
+            <!-- Plugin JavaScript -->
+            <script src="js/jquery.easing.min.js"></script>
+            <script src="js/jquery.fittext.js"></script>
+            <script src="js/wow.min.js"></script>
+
+            <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-59383829-1', 'auto');
+              ga('send', 'pageview');
+
+          </script>
+
+          <!-- Custom Theme JavaScript -->
+          <script src="js/creative.js"></script>
+
+      </body>
+
+      </html>
