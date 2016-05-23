@@ -5478,6 +5478,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logos\/friends\/catalyst.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58784,
+		"inputAbbreviatedPath": "\/img\/logos\/friends\/catalyst.jpg",
+		"outputAbbreviatedPath": "\/img\/logos\/friends\/catalyst.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logos\/friends\/CCANZ_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5489,6 +5500,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logos\/friends\/LOGO_OUISHARE_SQUARE.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6202,
+		"inputAbbreviatedPath": "\/img\/logos\/friends\/LOGO_OUISHARE_SQUARE.jpg",
+		"outputAbbreviatedPath": "\/img\/logos\/friends\/LOGO_OUISHARE_SQUARE.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logos\/friends\/NZOSS_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5496,6 +5518,17 @@
 		"initialSize": 104102,
 		"inputAbbreviatedPath": "\/img\/logos\/friends\/NZOSS_logo.png",
 		"outputAbbreviatedPath": "\/img\/logos\/friends\/NZOSS_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logos\/friends\/WSFS.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 200722,
+		"inputAbbreviatedPath": "\/img\/logos\/friends\/WSFS.png",
+		"outputAbbreviatedPath": "\/img\/logos\/friends\/WSFS.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
