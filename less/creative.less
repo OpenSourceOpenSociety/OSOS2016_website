@@ -1,6 +1,7 @@
 @import "variables.less";
 @import "mixins.less";
 
+
 // Global Components
 html,
 body {
@@ -9,7 +10,7 @@ body {
 }
 
 body {
-    .serif-font;
+    .sans-serif-font;
 }
 
 hr {
@@ -159,7 +160,7 @@ header {
     min-height: auto;
     .background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/osos_2016_bg.png');
     text-align: center;
     color: white;
     .header-content {
@@ -170,15 +171,21 @@ header {
         .header-content-inner {
             h1 {
                 font-weight: 700;
+                font-size: 35px;
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
+            }
+            h2 {
+                font-size: 30px;
+                font-weight: 700;
+                text-transform: uppercase;
             }
             hr {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
+                font-weight: 400;
                 color: fade(white, 70%);
                 font-size: 16px;
                 margin-bottom: 50px;
@@ -233,7 +240,7 @@ header {
     margin: 0 auto;
     .portfolio-box-caption {
         color: white;
-        opacity: 0;
+        opacity: 1;
         display: block;
         background: fade(@theme-primary, 90%);
         position: absolute;
@@ -265,7 +272,7 @@ header {
     }
     &:hover {
         .portfolio-box-caption {
-            opacity: 1;
+            opacity: 0;
         }
     }
     @media (min-width: 768px) {
