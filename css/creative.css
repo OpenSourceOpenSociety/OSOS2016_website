@@ -308,7 +308,7 @@ header .header-content .header-content-inner p {
     height: 100%;
     text-align: center;
     color: #fff;
-    opacity: 0;
+    opacity: 1;
     background: rgba(240,95,64,.9);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -340,7 +340,7 @@ header .header-content .header-content-inner p {
 }
 
 .portfolio-box:hover .portfolio-box-caption {
-    opacity: 1;
+    opacity: 0;
 }
 
 @media(min-width:768px) {
