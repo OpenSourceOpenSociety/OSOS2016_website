@@ -5469,6 +5469,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logos\/friends\/bizdojo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65713,
+		"inputAbbreviatedPath": "\/img\/logos\/friends\/bizdojo.png",
+		"outputAbbreviatedPath": "\/img\/logos\/friends\/bizdojo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logos\/friends\/catalyst.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
