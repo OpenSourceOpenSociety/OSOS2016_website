@@ -5502,6 +5502,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logos\/friends\/CHQ.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22064,
+		"inputAbbreviatedPath": "\/img\/logos\/friends\/CHQ.png",
+		"outputAbbreviatedPath": "\/img\/logos\/friends\/CHQ.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logos\/friends\/LOGO_OUISHARE_SQUARE.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
