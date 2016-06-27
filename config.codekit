@@ -5414,6 +5414,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logos\/contributors\/flick.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28032,
+		"inputAbbreviatedPath": "\/img\/logos\/contributors\/flick.png",
+		"outputAbbreviatedPath": "\/img\/logos\/contributors\/flick.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logos\/contributors\/iwantmyname.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5443,6 +5454,28 @@
 		"initialSize": 19548,
 		"inputAbbreviatedPath": "\/img\/logos\/contributors\/mbie.png",
 		"outputAbbreviatedPath": "\/img\/logos\/contributors\/mbie.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logos\/contributors\/Scoop logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9575,
+		"inputAbbreviatedPath": "\/img\/logos\/contributors\/Scoop logo.png",
+		"outputAbbreviatedPath": "\/img\/logos\/contributors\/Scoop logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logos\/contributors\/stats.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109657,
+		"inputAbbreviatedPath": "\/img\/logos\/contributors\/stats.png",
+		"outputAbbreviatedPath": "\/img\/logos\/contributors\/stats.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5828,6 +5861,17 @@
 		"initialSize": 26828,
 		"inputAbbreviatedPath": "\/img\/people\/Originals\/ben-knight.png",
 		"outputAbbreviatedPath": "\/img\/people\/Originals\/ben-knight.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/people\/Originals\/cam.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.51768e+06,
+		"inputAbbreviatedPath": "\/img\/people\/Originals\/cam.jpg",
+		"outputAbbreviatedPath": "\/img\/people\/Originals\/cam.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6690,6 +6734,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/speakers\/cam.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135105,
+		"inputAbbreviatedPath": "\/img\/speakers\/cam.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/cam.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/speakers\/chris_cormack.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6734,6 +6789,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/speakers\/Keitha.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30637,
+		"inputAbbreviatedPath": "\/img\/speakers\/Keitha.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/Keitha.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/speakers\/laura.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6756,6 +6822,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/speakers\/Liz_MacPherson.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 244102,
+		"inputAbbreviatedPath": "\/img\/speakers\/Liz_MacPherson.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/Liz_MacPherson.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/speakers\/marianne.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -6763,6 +6840,149 @@
 		"initialSize": 368754,
 		"inputAbbreviatedPath": "\/img\/speakers\/marianne.png",
 		"outputAbbreviatedPath": "\/img\/speakers\/marianne.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/max_rashbrooke.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.04816e+06,
+		"inputAbbreviatedPath": "\/img\/speakers\/max_rashbrooke.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/max_rashbrooke.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/alanna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139949,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/alanna.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/alanna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/audrey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180175,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/audrey.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/audrey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/cam.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149883,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/cam.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/cam.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/chris_cormack.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 651617,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/chris_cormack.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/chris_cormack.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/douglas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224064,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/douglas.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/douglas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/hiria.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275374,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/hiria.png",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/hiria.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/josh_vial.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 480132,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/josh_vial.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/josh_vial.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/laura.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56077,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/laura.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/laura.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/lillian.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 237018,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/lillian.png",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/lillian.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/Liz_MacPherson.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.04222e+06,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/Liz_MacPherson.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/Liz_MacPherson.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/marianne.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 368754,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/marianne.png",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/marianne.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/max_rashbrooke.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.67966e+06,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/max_rashbrooke.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/max_rashbrooke.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
