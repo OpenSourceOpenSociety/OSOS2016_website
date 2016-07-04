@@ -5447,6 +5447,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logos\/contributors\/Mahuki_Vert_RGB_PositiveTest1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22594,
+		"inputAbbreviatedPath": "\/img\/logos\/contributors\/Mahuki_Vert_RGB_PositiveTest1.png",
+		"outputAbbreviatedPath": "\/img\/logos\/contributors\/Mahuki_Vert_RGB_PositiveTest1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logos\/contributors\/mbie.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5557,6 +5568,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logos\/friends\/Mark_Tantrum.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19071,
+		"inputAbbreviatedPath": "\/img\/logos\/friends\/Mark_Tantrum.png",
+		"outputAbbreviatedPath": "\/img\/logos\/friends\/Mark_Tantrum.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logos\/friends\/NZOSS_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5564,6 +5586,17 @@
 		"initialSize": 104102,
 		"inputAbbreviatedPath": "\/img\/logos\/friends\/NZOSS_logo.png",
 		"outputAbbreviatedPath": "\/img\/logos\/friends\/NZOSS_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logos\/friends\/Te_Papa_Logo_GREEN.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 634559,
+		"inputAbbreviatedPath": "\/img\/logos\/friends\/Te_Papa_Logo_GREEN.jpg",
+		"outputAbbreviatedPath": "\/img\/logos\/friends\/Te_Papa_Logo_GREEN.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6785,6 +6818,17 @@
 		"initialSize": 480132,
 		"inputAbbreviatedPath": "\/img\/speakers\/josh_vial.jpg",
 		"outputAbbreviatedPath": "\/img\/speakers\/josh_vial.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/keitha-booth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138611,
+		"inputAbbreviatedPath": "\/img\/speakers\/keitha-booth.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/keitha-booth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
