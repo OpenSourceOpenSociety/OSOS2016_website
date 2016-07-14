@@ -6800,6 +6800,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/speakers\/Geoffrey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.84286e+06,
+		"inputAbbreviatedPath": "\/img\/speakers\/Geoffrey.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/Geoffrey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/speakers\/hiria.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -6950,6 +6961,17 @@
 		"initialSize": 224064,
 		"inputAbbreviatedPath": "\/img\/speakers\/originals\/douglas.jpg",
 		"outputAbbreviatedPath": "\/img\/speakers\/originals\/douglas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers\/originals\/Geoffrey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.84286e+06,
+		"inputAbbreviatedPath": "\/img\/speakers\/originals\/Geoffrey.jpg",
+		"outputAbbreviatedPath": "\/img\/speakers\/originals\/Geoffrey.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

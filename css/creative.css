@@ -206,6 +206,14 @@ header .header-content .header-content-inner p {
   max-width: 400px;
   margin: 50px auto 0;
 }
+
+.lead-small {
+  margin-bottom: 20px;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
 @media (min-width: 992px) {
   .service-box {
     margin: 20px auto 0;
@@ -214,6 +222,12 @@ header .header-content .header-content-inner p {
 .service-box p {
   margin-bottom: 0;
 }
+
+.profile{
+  height: auto;
+  border-radius: 50%;
+}
+
 .portfolio-box {
   position: relative;
   display: block;
