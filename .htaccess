@@ -1,3 +1,10 @@
+<IfModule mod_expires.c>
+	# Enable expirations
+	ExpiresActive On 
+	# Default directive
+	ExpiresDefault "access plus 1 week"
+</IfModule>
+
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
